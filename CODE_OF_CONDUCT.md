@@ -1,4 +1,4 @@
-# ProtoSchool Denver Contributor Covenant Code of Conduct
+# ProtoSchool Denver Code of Conduct
 
 ## Our Pledge
 
@@ -52,25 +52,19 @@ address, posting via an official social media account, or acting as an appointed
 representative at an online or offline event. Representation of a project may be
 further defined and clarified by project maintainers.
 
-## Enforcement and Incidents
-
-Project maintainers who do not follow or enforce the Code of Conduct in good
-faith may face temporary or permanent repercussions as determined by other
-members of the project's leadership.
-
-### Procedure For Reporting Code of Conduct Incidents
+## Procedure For Reporting Code of Conduct Incidents
 
 If you believe someone has violated our Code of Conduct, we encourage you to report it. If you are unsure whether the incident is a violation, or whether the space where it happened is covered by this Code of Conduct, we encourage you to still report it. We are fine with receiving reports where we decide to take no action for the sake of creating a safer space.
 
 Make a report to any of the maintainers listed in the ProtoSchool Denver Chapter [README.md](https://github.com/ProtoSchool/Denver/blob/master/README.md):
  
-In the event of a conflict of interest, you may directly contact any of other ProtoSchool Chaper Maintainers , found [here](https://github.com/ProtoSchool), or the lead maintainers:
+**In the event of a conflict of interest, you are encouraged to directly contact any of other ProtoSchool Chaper Maintainers, [found here](https://github.com/ProtoSchool), or the Orginization's lead maintainers:**
 
 - [Teri Chadbourne](https://terichadbourne.com/)
 Community Manager at [ProtocolLabs](https://protocol.ai)
 [teri@protocol.ai](teri@protocol.ai)
 
-**If you make a report via email or phone, please include:**
+#### When making a report you make a report via email or phone, please include:
 
 - Your contact info (so we can get in touch with you if we need to follow up)
 - Date and time of the incident
@@ -93,6 +87,11 @@ In some cases we may determine that a public statement will need to be made. If 
 If an incident responder has a conflict of interest for a report, they will recuse themselves from the discussion and handling of the incident. The incident documentation will not be available to them, and they will excuse themselves from any conversations involving handling the incident.
 
 Should the majority lead incident responders need to recuse themselves, **TODO: contact who??**
+
+Project maintainers who do not follow or enforce our Code of Conduct in good
+faith may face temporary or permanent repercussions as determined by other
+members of the project's leadership.
+
 
 ### Attribution
 
