@@ -58,7 +58,7 @@ If you believe someone has violated our Code of Conduct, we encourage you to rep
 
 Make a report to any of the maintainers listed in the ProtoSchool Denver Chapter [README.md](https://github.com/ProtoSchool/Denver/blob/master/README.md):
  
-**In case of a conflict of interest with the Denver Chaper maintainers, or if you feel that this chapter's organizers are not living up to the standards laid out in our Code of Conduct, please follow the reporting procedures laid out in the broader [ProtoSchool Code of Conduct](https://github.com/ProtoSchool/organizing/blob/master/CODE_OF_CONDUCT.md) to reach the project's lead maintainers - [protoschool@protocol.ai](protoschool@protocol.ai)**
+**In case of a conflict of interest with the Denver Chapter maintainers, or if you feel that this chapter's organizers are not living up to the standards laid out in our Code of Conduct, please follow the reporting procedures laid out in the broader [ProtoSchool Code of Conduct](https://github.com/ProtoSchool/organizing/blob/master/CODE_OF_CONDUCT.md) to reach the project's lead maintainers - [protoschool@protocol.ai](mailto:protoschool@protocol.ai)**
 
 #### When making a report you make a report via email or phone, please include:
 
