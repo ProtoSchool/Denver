@@ -58,11 +58,7 @@ If you believe someone has violated our Code of Conduct, we encourage you to rep
 
 Make a report to any of the maintainers listed in the ProtoSchool Denver Chapter [README.md](https://github.com/ProtoSchool/Denver/blob/master/README.md):
  
-**In the event of a conflict of interest, you are encouraged to directly contact any of other ProtoSchool Chaper Maintainers, [found here](https://github.com/ProtoSchool), or the Orginization's lead maintainers:**
-
-- [Teri Chadbourne](https://terichadbourne.com/)
-Community Manager at [ProtocolLabs](https://protocol.ai)
-[teri@protocol.ai](teri@protocol.ai)
+**In case of a conflict of interest with the Denver Chaper maintainers, or if you feel that this chapter's organizers are not living up to the standards laid out in our Code of Conduct, please follow the reporting procedures laid out in the broader [ProtoSchool Code of Conduct](https://github.com/ProtoSchool/organizing/blob/master/CODE_OF_CONDUCT.md) to reach the project's lead maintainers - [protoschool@protocol.ai](protoschool@protocol.ai)**
 
 #### When making a report you make a report via email or phone, please include:
 
@@ -82,16 +78,6 @@ All reports will be kept confidential. When we discuss incidents with people who
 However, some incidents happen in one-on-one interactions, and even if the details are anonymized, the reported person may be able to guess who made the report. If you have concerns about retaliation or your personal safety, please note those in your report. We still encourage you to report, so that we can support you while keeping our conference attendees safe. In some cases, we can compile several anonymized reports into a pattern of behavior, and take action on that pattern.
 
 In some cases we may determine that a public statement will need to be made. If that's the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.
-
-### Conflicts of Interest
-If an incident responder has a conflict of interest for a report, they will recuse themselves from the discussion and handling of the incident. The incident documentation will not be available to them, and they will excuse themselves from any conversations involving handling the incident.
-
-Should the majority lead incident responders need to recuse themselves, **TODO: contact who??**
-
-Project maintainers who do not follow or enforce our Code of Conduct in good
-faith may face temporary or permanent repercussions as determined by other
-members of the project's leadership.
-
 
 ### Attribution
 
